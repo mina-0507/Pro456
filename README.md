@@ -40,3 +40,8 @@
 
 #### Результат:
 <img width="596" height="34" alt="image" src="https://github.com/user-attachments/assets/35c23fc6-815b-4f70-b07a-28a89f2038de" />
+
+## Список использованных источников:
+1. [Itertools в Python - Хабр](https://habr.com/ru/companies/otus/articles/529356/)
+2. [itertools — Functions creating iterators for efficient looping](https://docs.python.org/3/library/itertools.html)
+3. [Итерируем правильно: 20 приемов использования в Python модуля itertools](https://proglib.io/p/iteriruemsya-pravilno-20-priemov-ispolzovaniya-v-python-modulya-itertools-2020-01-03)
